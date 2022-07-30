@@ -1,0 +1,182 @@
+Difference between List and arrayList?
+-List is interface and arraylist is class- arrays list abstract class
+Difference between arrays and arraylist?
+
+-Link
+
+
+
+
+I have 5+ experience in selinium teing 
+1.How to acchive parrel testing achive ?Using parrel tesing 
+2.have u docker?
+3.What is the advantages using testNG?
+4.Tell me sequence of annocation ?
+5.Diff between before Test and Before Method?
+6.TDD and BDD approch?
+7.Can I use ANT ?
+8.How to handle browser window?
+9.How to handel which locator if value chagne randomlay?
+10.How to resolve problem if elment is present ?
+11.How to create jenkies pipline?
+12.Can you tell me diffeerent stages in cicd piplines?
+13.Whst bases for select automation test cases ?
+----------------------------------------------------
+5+
+1.Definacation of Done (DOD)
+2.What do you men by compline time and run time polymerphosy?
+-Complite time polymor we can achive using methoidng overloading and runtime menas method overriding.
+3.Top Casting?
+4.HashMap?in case of automation?or in case of scnarios?
+5.Grabage Collector?
+6.Finilize Method ?
+Ans: Fin
+7.How to create own execepton?
+And : You can create your own execption using final block . 
+==========================================================
+8+
+Selenium 
+1.Basic Architure of selenium webdriver?
+2.In selenium can you tell me 5 disadvantages ?
+-Captcha
+-Os popus
+-Reports
+-Windows app
+3.What is Alert?
+-Alert is predefined class in selenium , Which is used to handel alert popup of browser. 
+driver.swithTo.Alt
+Alt.accept
+alt.dismiss
+alt.getTest
+
+4.How to handel the alert?
+Using Alert Class 
+-You hadnle alered using - alt.DISMISS,ALT.GET TEST
+
+5.How to handel the window?-Window Handeler
+6.Can u tell me systex of shadow element and show doms?
+7.TestNt - What are the listeners?
+Ans : 
+8.How many assercatin write if five test cases with one or individualy?
+Ans:We can write the alert for each test Cases.
+
+
+9.What is SoftAssercation?
+Ans: Using softAssert we can run the script wihout exception /terminate the other .
+10.Difference between hard and SoftAssercation?
+-Hard assert if i fond execeptin in script /coed program will ternamnt but soft assert progran can not ternametn and execute remaing code o t
+11.TestNg support soft assercation?
+YES 
+12.Do you maintain priority in test cases?
+And : In test assect we can deifne priont what types o
+13.Priority can be negative?
+Ans : Can negateie 
+15.Can you have one priority in all test cases?
+Ans:U can assing but this not good pritices bz 
+16.Driver.findElement what is return type?
+Ans: WebElement
+17.static arry and dynamic arry?
+Ans: 
+18.Default capicy of arry list?
+19.HashMap how it's work?
+20.Whst do you mean Hash?
+21.Why string are umutable?
+22.What is umutable?
+23.String reverse?
+24.What is major role in your project?
+25.How to write test cases if my product is avilabe or not n cart?
+26.How to use perticular test cases?
+============================================
+7+
+1.I want to select india from list wihout using select class?
+2.WebTabl?
+checkbox !suhash!9999!test@gmail!ibm!
+checkbox !ingale!9999!test@gmail!ibm!
+checkbox !kunal!9999!test@gmail!ibm!
+3.Can we automate Canvase and Googe Map?
+3.SVG element and Shadow elemnt?Can we wr
+4.Select 4?
+5.WebDriver Architectue ? 
+6.Parent content web Driver?
+Asn:ContentsSearch
+7.Why we write WebDiver driver = new ChromeDriver();
+8.TopCasting?
+9.Can u create object of inferface?
+10.Can have Static abstract method in infercate?
+11.Can u overwride static method?
+12.What major C
+13.Can u create of object of abstract classes?
+14.Can I crete constructor of abstract clases?
+15.Whic keyword in java prevent method overloadng and method overwriding?
+And:We can use final keywokd to prevent the methodoverlaidng and overwirng.
+16.Finaly keywrod? Finaly Block?
+Ans>Finale keyworkd we are using with variable , method and class . Final blick we can use for code 
+=======================================================================
+Interview Quetions  :TCS,capgemini,clover infotect and nict 
+1.Tell me about yourself?
+
+Selenium:
+1.what is fluent wait? 
+Ans:It is wait for bro
+2.Exceptions or error you faced in selenium?
+11.write selenium script for login page?Yes
+12.what is POM?Yes
+13.what is page factory?No
+14.what is diff between pom and page factory?No
+15.what is anoter way to to enter in website?
+Ans:driver.getNavigate
+16.diff between driver.get() and driver.navigation()?Yes 
+And:driver.get not mantiang the histro as driver.navige mantain the history.
+17.write screenshot code?Yes 
+TackeScreenShot screenshot = (TackeScreenShot)drvver);
+File  screenshot .getScreenshot(fileOut.File);
+
+18.how to save screenshot?Yes
+Ans : Using Utlity have method copyFile("",new "")
+
+21.what is diff between junit and testNG?Yes
+Jinit and tesNg both are frame work.
+22.How can I run sam test cases multiple time?
+24.How to access common keyword in selenium?
+25.question on data provider ?
+26.How to handle auto suggestive dropdown?
+27.how to handle normal dropdown?
+28.questions on include and exclude keyword?
+29.what is fluent wait?
+36.what is page factory?
+37.what is diff between pom and page factory?
+47.Questions on testNG?
+48.Explain framewokr which used in project?
+49.How to handle auto suggestive dropdown?
+50.How can I run same test cases multiple time?
+51.what is diff between pom and page factory?
+52.TestNg questions?
+
+Java:
+3.What is constructor?
+4.why we use constructor?
+5.write code for two dimensional arry/just one line syntax?
+6.Explain the indexing position in about array code ?
+10.what is final keyword?
+30.whis is constructor?
+Ans :Special function having same name of fucation and class anme not need to call constructors explecitily. 
+32.what is inheritance?
+33.what is final keyword?
+34.can we automate captcha?
+35.autoIT tool.
+
+CICD:
+8.what is jenkin?
+23.CI/CD logn form?
+38.Manual testing questions?
+39.what is regression testing ?
+40.what is integration testing?
+41.Explain loops?
+42.What is loop is convenient to use ?
+43.What loop you used most of the time?
+44.scenario given on loops?
+
+45.Questions on JAVA ?
+46.String program?
+
+

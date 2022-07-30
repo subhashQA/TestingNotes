@@ -1,0 +1,76 @@
+Constructor : 
+-Invoke or executed at the time of object creacation no need to call constructor explictily.
+-Constructors manily use to initilize the data .
+Diff between constructores and functions?
+1.Fuctions will returen a value where as constructos will not returen any value.
+2.Constructores will have same name of the class where as functions will have differentnname.
+3.Not need to call constructos where as functions must be called.
+
+Note : There are two types of constructos 1.Paramiterize constrctores 1.Default constructos .
+Default constructos-Is the one which will not have any parameters.
+If you do not have any constructor in class by default compiler is going to add one default constructor. 
+
+Note : If you have more than one constructor in your class then it is called Construcor overloading .
+
+
+Static : It is used to better memory managment perpose. 
+Static can be implemnted withe below
+1.Static Variable ---If you declare as static only one memory locaton will be allocated and all the objects going to share same memory location . 
+We need to use static variable when we want common value needs to be used for all the objects.
+Functions/Methods
+2.Static variables are at the class level not at the object level. 
+3.Static Function: If you declare any funcation with static keywork then that funcation will be static funcation .
+static funcaiton are class level. 
+We can not use below keywork withe the static
+This - keyworkds 
+Super - keyworkd
+static funcation can access only static data and can call only static funcation.
+static funcation shoul be called with help of class name. 
+We can not call static funcaiton with the object name.
+
+Why do you writeh public static void before main ?
+How to you call funation without object ?
+
+Final Keyword : Final is a keyword which can be used with the below.
+1.Variable -If a variavle is declared as final the value of final variable can not be modify.
+2.Methods - If a method declared as final that method can not be overriding in the sub class.
+3.Final Class - If u are declared any class as final that class cant not be extended.
+
+
+Super Keyword:
+Super is a keyword which is used to invoke/call will call super class method.
+Super keyword is used to implement runtime polymorphism. 
+
+
+Write a progrm overwride.
+Change the package name commonfeatures.and call one class from another class.
+
+Packages : 
+
+
+Exception Handeling: 
+?What is the super class of exepton handeling
+Ans : Throwabel is suprclass of exception handeling.
+
+Note : Catch block will execute only if there is execaption.Catch will not be executed if there is not execetion. 
+If you dont know what type of excepetioin it is thorwing how to handle ?
+ans:Execptioin is pre define class which can handel any type of execpecation.
+If you have multiple catch blocks exeception must me the last one do not put this catch block in the begaining or middle.
+
+Difference between catch and finally?
+Ans :catch block will execute only if there is an exeception but finally block will be executed all the time.
+Finally block is used for cleaning of the code. 
+
+Finilize : Is a method which is going to be executed before garbage colucator distroing the objects.If YOU wanted to 
+perform any acation before garbage coluctor distroing the object that code we have to puted in side the finilize method.
+
+
+
+
+
+
+
+
+
+
+

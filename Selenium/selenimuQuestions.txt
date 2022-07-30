@@ -1,0 +1,55 @@
+1.What is selenium?
+2.How many language support selenium?
+3.Which browsers support selenium?
+4.Components of selenium?
+5.What are advantages of selenium?
+6.What are disadvantages of selenium?
+7.What testing types support selenium?
+8.What are the locaters in selenium?
+9.What is xpath ?How it’s work?
+10.What is absolute and relative xpath?Whis it single slash(/) and double slash(//) With example?
+11.How Do You Locate An Element By Partially Comparing Its Attributes In XPath?
+12.What is WebDrver?
+13.Which is the supr class of WebDriver?
+14.Why we writing WebDriver driver = new ChromeDriver();?
+15.What are the different exceptions available in selenium?
+16.What is Assertion? Why do we use it?What are the What is soft and hard assert?
+17.What are the different waits available in selenium? Synchronization in Web Driver:
+18.What is WebDriver ?
+19.What is the command to enter text ?
+20.How To Enter Text In The HTML Text Box Without Invoking The SendKeys()?
+21.What Is The Method To Read The JavaScript Variable Using Selenium WebDriver?
+22.What is the command to clare the field?
+23.How to get the text from webpage?
+24.How to submit the form of web application?
+25.What is the command to enter the text box?
+26.What is other way to invoke the application?What is get() and navigate()?
+27.How Can I Move Back And Forth In a Browser Using Selenium?
+28.What is the selenium command to get current url of application?
+29.What are the command to mamixed browser?
+30.How to delete session cookies?
+31.Difference between GetWindowHandle() And GetWindowHandles() Methods?
+32.Difference between close() and quite()?
+33.What is difference between findElement() and findElements()?
+34.What is alert? How To Handle Web-Based Alerts/Pop-Ups In Selenium?
+35.How to handle windows based Alerts/Pop-ups in selenium?
+36.How To Handle Multiple Popup Windows In Selenium?
+37.What Is A Page Object In Selenium WebDriver?
+38.How do you handle mouse actions?
+39.What is the page factory in selenium WebDriver?
+40.How to capture the screenshot ?
+41.What are the testNG annocation?
+43. What Is Data Provider In TestNG?
+44. What Is Meant By Grouping In TestNG?
+45. How To Associate A Single Test To Multiple Groups In TestNG?
+46. Is TestNG Capable Of Running Multiple Suites?
+47. How do you associate a single test cases in multiple groups?
+48. What Type Of Test Framework Did You Create Using Selenium?
+49. How to handel WebTable ?
+50. How do select value form drop down?
+51.  How do you find element which is in Frame?
+52.  How do you switch to Frame?
+53. How do you come out of frame after performing action in the Ffg
+rame?
+54.  How do you switch between windows using Selenium?
+
